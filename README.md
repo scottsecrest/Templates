@@ -1,6 +1,6 @@
-## A collection of templates to simplify the setup of Jamf Pro.
+# A collection of templates to simplify the setup of Jamf Pro.
 
-# Commercial
+## Commercial
 This template was built by the Jamf SE team to simplify common workflows for customers working on Employee Choice and Mobility programs.
 
 * Advanced Searches - macOS, iOS
