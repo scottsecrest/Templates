@@ -1,19 +1,23 @@
-# Collection of templates for use with Jamf Pro trials.
+# A template to simplify the setup of Jamf Pro.
 
-## How it works?
+The commercial template was built by Jamf Sales Engineers to simplify common workflows forcustomers working on Employee Choice and Mobility programs.
 
-Created with Jamf Migrator and deployed with Jamf Pro Templater. Templates simplify the setup and configuraiton of new Jamf Pro instances.
+Contents:
 
-In this repositorywe have  have templates for common use cases to simplify the setup and configuration during trials. 
-
-Jamf Migrator: https://github.com/jamf/JamfMigrator
-Jamf Pro Templater: https://github.com/yuresko/templater
-
-## Commercial
-
-The commercial template was built by Jamf Sales Engineers to simplify common workflows for Employee Choice and Mobility programs. 
-
-In Progress:
-## K-12
-## Hi-Ed
-## Healthcare
+* Advanced Searches - macOS, iOS
+* CIS Benchmark - macOS, iOS
+* Categories - Settings
+* Extension Attributes - macOS
+* FileVault - macOS	
+* Inventory - macOS, iOS, tvOS
+* iOS Apps - macOS, iOS
+* Jamf Connect + Notify	- macOS	
+* LDAP + SSO - Demo Enviornment	
+* MS Office Install/Update - macOS, iOS
+* Patch Management
+* PPPC	
+* Printers	
+* Scripts	
+* Self Service - macOS, iOS	
+* Sites	
+* Smart Groups - macOS, iOS
